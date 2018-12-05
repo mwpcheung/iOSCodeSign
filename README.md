@@ -1,0 +1,2 @@
+# iOSCodeSign
+macho edit resign
